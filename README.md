@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Michel
 
-## 👀 Tenho grande interesse em diversas áreas da tecnologia, incluindo:
+## 👀 Tenho grande interesse em diversas áreas da Programação, incluindo:
 
 - Desenvolvimento em Python, Java e C#.
 - Web Design e desenvolvimento front-end.
