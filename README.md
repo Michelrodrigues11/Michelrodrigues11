@@ -1,3 +1,8 @@
+<a href="https://github.com/strFelix">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michelrodrigues11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelrodrigues11&layout=compact&langs_count=7&theme=dark" />
+<hr>
+
 # 👋 Olá, sou o Michel
 
 ## 👀 Tenho grande interesse em diversas áreas da Programação, incluindo:
