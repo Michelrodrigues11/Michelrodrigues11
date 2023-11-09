@@ -1,3 +1,5 @@
+![Imagem do perfil](profile-image.png)
+
 # 👋 Olá, sou o Michel
 
 ## 👀 Tenho grande interesse em diversas áreas da Programação, incluindo:
