@@ -11,7 +11,7 @@
 
 
   
-## 👀 Tenho grande interesse em diversas áreas da Programação, incluindo:
+## 👀 Tenho grande interesse em diversas áreas da Programação, Como Por Exemplo:
 
 - Desenvolvimento em Python, Java e C#.
 - Web Design e desenvolvimento front-end.
@@ -24,5 +24,4 @@ Atualmente, estou aprendendo Desenvolvimento de Sistemas na Etec Horácio August
 
 Você pode me encontrar:
 
-- No GitHub: [@Michelrodrigues11](https://github.com/Michelrodrigues11)
 - Por e-mail: [henriquemichel10@gmail.com]
