@@ -13,7 +13,7 @@
   
 ## 👀 Tenho grande interesse em diversas áreas da Programação, Como Por Exemplo:
 
-- Desenvolvimento em Python, Java e C#.
+- Desenvolvimento em Python, Javascript e C#.
 - Web Design e desenvolvimento front-end.
 - Framework Angular para construção de aplicações web modernas.
 
