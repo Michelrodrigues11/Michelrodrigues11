@@ -17,8 +17,8 @@
 - Web Design e desenvolvimento front-end.
 - Framework Angular para construção de aplicações web modernas.
 
-## 🌱 Curso
-Atualmente, estou aprendendo Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira, onde estou aprofundando meus conhecimentos em programação, design de software e também estou explorando a criação de aplicações web com o framework Angular.
+## 🌱 Desenvolvimento
+Sou um desenvolvedor recém-formado em Desenvolvimento de Sistemas pela ETEC. Com uma base sólida em programação e interesse em aprender continuamente, estou focado em construir projetos que ampliem meu conhecimento e contribuam para o desenvolvimento de soluções tecnológicas. Busco desafios na área de desenvolvimento e estou sempre aberto a colaborar em projetos open-source e a explorar novas tecnologias.
 
 ## 📫 Como entrar em contato
 
